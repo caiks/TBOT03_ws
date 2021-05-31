@@ -1,0 +1,12 @@
+{
+	"update_interval" : 1,
+	"act_interval" : 10,
+	"structure" : "struct001",
+	"model" : "model076",
+	"mode" : "mode007",
+	"logging_update" : false,
+	"logging_level1" : false,
+	"logging_level2" : false,
+	"summary_level1" : true,
+	"summary_level2" : true
+}
