@@ -1,6 +1,6 @@
 {
-	"update_interval" : 1,
-	"act_interval" : 10,
+	"update_interval" : 2,
+	"act_interval" : 2,
 	"structure" : "struct001",
 	"model_initial" : "model076",
 	"structure_initial" : "struct001",
