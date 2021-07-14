@@ -1,0 +1,20 @@
+{
+	"update_interval" : 1,
+	"linear_maximum" : 0.45,
+	"angular_maximum_lag" : 6.0,
+	"act_interval" : 1,
+	"structure" : "struct001",
+	"model" : "model079",
+	"mode" : "mode012",
+	"distribution_AHEAD" : 10.0,
+	"collision_range" : 0.85,
+	"collision_field_of_view" : 20,
+	"turn_bias_factor" : 10,
+	"logging_update" : false,
+	"logging_action" : true,
+	"logging_action_factor" : 100,
+	"logging_level1" : false,
+	"logging_level2" : false,
+	"summary_level1" : true,
+	"summary_level2" : true
+}
