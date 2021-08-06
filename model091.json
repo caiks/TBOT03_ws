@@ -18,6 +18,6 @@
 	"logging_level2" : false,
 	"summary_level1" : false,
 	"summary_level2" : false,
-	"logging_mode013" : true,
-	"logging_mode013_factor" : 1000	
+	"logging_mode" : true,
+	"logging_mode_factor" : 1000	
 }
