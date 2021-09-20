@@ -55,6 +55,8 @@ data024.bin
 test.bin
 
 actor.json
+actor*.ac
+actor*.rec
 
 model083_2.ac
 model084_2.ac
